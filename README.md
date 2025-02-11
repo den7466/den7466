@@ -1,5 +1,5 @@
 # Hello, my name is Dmitry! 👋
-## I'm a fullstack-developer.
+## I'm a fullstack-developer
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=%2Fhttps%3A%2F%2Ft.me%2Fden7466)](https://t.me/den7466)
