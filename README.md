@@ -1,8 +1,11 @@
 # Привет, меня зовут Дмитрий! 👋
-## Я фронтенд-разработчик.
+## Я fullstack developer.
 ### Сделаю для Вас качественную и адаптивную верстку. :+1:
 
 #### Мой Телеграм: [@den7466](https://t.me/den7466)
+
+### Technology stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <!--
 **den7466/den7466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
